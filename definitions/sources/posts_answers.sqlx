@@ -1,5 +1,3 @@
-# comment
-# new comment
 config {
   type: "declaration",
   database: "bigquery-public-data",
